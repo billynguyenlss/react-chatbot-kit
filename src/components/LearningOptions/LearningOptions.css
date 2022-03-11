@@ -1,0 +1,19 @@
+.learning-options-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .learning-option-button {
+    padding: 0.5rem;
+    border-radius: 19px;
+    border: 1px solid #00548B;
+    margin: 3px;
+    background-color: #f1f1f1;
+    padding: 8px;
+    box-shadow: 2px 2px 4px rgba(150, 149, 149, 0.4);
+  }
+  
+  .learning-option-button:hover {
+    background-color: bisque;
+  }
